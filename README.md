@@ -68,9 +68,9 @@ My journey into technical writing was fuelled by a passion for the mechanics of 
 
 # 📈 Career Highlights
 
-**Product Launches:** Led content design for the launch of Jira Work Management and Jira next-gen.
-**Efficiency & Automation:** Reduced release note publishing time from 93 minutes to 13 minutes by launching an AI-powered Content Review Desk.
-**Support Optimisation:** Revamped Jira workflow documentation to address support ticket trends, resulting in approximately $50k in saved support costs.
+- **Product Launches:** Led content design for the launch of Jira Work Management and Jira next-gen.
+- **Efficiency & Automation:** Reduced release note publishing time from 93 minutes to 13 minutes by launching an AI-powered Content Review Desk.
+- **Support Optimisation:** Revamped Jira workflow documentation to address support ticket trends, resulting in approximately $50k in saved support costs.
 
 # [📫 Connect with Me](https://linktr.ee/buiwonder)
 
