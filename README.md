@@ -26,25 +26,6 @@ My journey into technical writing was fuelled by a passion for the mechanics of 
 - Process automation and workflow optimisation
 - Technical documentation for complex systems
 
-#### Software & Platform Development
-- API design concepts and REST architecture
-- Microservices architecture fundamentals
-- System integration and platform interoperability
-- Automation workflows and tool integration
-- Agile software delivery practices
-
-#### Data & Backend Fundamentals
-- SQL querying and database fundamentals
-- Data modelling concepts
-- Data pipeline and ETL workflow concepts
-- Analytics-driven product improvement
-
-#### DevOps & Engineering Practices
-- CI/CD pipeline concepts
-- DevOps collaboration with engineering teams
-- Agile development methodologies
-- Technical risk awareness and documentation
-
 #### Tools & Technologies
 - Jira
 - Confluence
@@ -59,13 +40,6 @@ My journey into technical writing was fuelled by a passion for the mechanics of 
 - User research and journey mapping
 - Cross-functional communication between design, product and engineering teams
 
-# :seedling: Currently Learning
-- Microservices architecture design patterns
-- API documentation and testing (Swagger, Postman)
-- Cloud architecture fundamentals (AWS / Azure)
-- Data engineering workflows and ETL pipelines
-- Enterprise solution architecture principles
-
 # 📈 Career Highlights
 
 - **Product Launches:** Led content design for the launch of Jira Work Management and Jira next-gen.
@@ -74,4 +48,4 @@ My journey into technical writing was fuelled by a passion for the mechanics of 
 
 # [📫 Connect with Me](https://linktr.ee/buiwonder)
 
-I'm currently looking for my next opportunity in Content, Design, Product and open to a complete career transition... New Year, New Me :wink:
+I'm currently looking for my next opportunity in Content, Design, Product and open to a complete career transition...
